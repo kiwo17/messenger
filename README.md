@@ -1,15 +1,19 @@
-# Player
-The player is a customizable MP3.
+# messenger
+The messenger is a display that shows daily quotes or phrases.
  
 [Image coming soon ...]
 
-The player not only looks visually appealing and aesthetic but has also a purpose. You can input a micro SD card
-with your favorite musics and listen to it through wired headphones. It can also be used as a keychain and 
-looks awesome!
 
-I love music and the idea of being able to make something like this completely enchanted me. 
+It works by using LED matrices, which allows to use tons of LED while using less pins. 
+
 
 ## About the Project
+
+The messenger is going to be a multitasker!
+
+I want it display daily encouraging motivating quotes or phrases to inspire in the morning. During the day
+It the messenger is going to be displayed. It will have different states based on the weather. 
+
 
 ## Process
 
@@ -18,19 +22,11 @@ I love music and the idea of being able to make something like this completely e
 ### Currently working on ...
 
 - Research
-- choosing components
   
 ### Next steps ...
 
 - Begin with the schematic
-  
-## Do it yourself
 
-The guide is coming as soon as possible. 
-
-Before that you can check if you fulfill all the requirements bellow.
-
-### Requirements 
 
 ## BOM 
 
