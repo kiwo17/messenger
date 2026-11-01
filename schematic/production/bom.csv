@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,RaspberryPi_Pico_Common_Unspecified,1,RaspberryPi_Pico,
+C1,C_Disc_D5.1mm_W3.2mm_P5.00mm,1,uF10,
+C2,C_Disc_D5.1mm_W3.2mm_P5.00mm,1,nF100,
+J1,PinSocket_1x05_P2.54mm_Vertical,1,Conn_01x05,
+U1,DIP-14_W7.62mm,1,74AHCT125,
