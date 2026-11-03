@@ -1,7 +1,5 @@
 # Messenger
 The messenger is a display that shows daily quotes or phrases.
- 
-[Image coming soon...]
 
 It works by using LED matrices, which allows to use tons of LED while using less pins. 
 
@@ -49,5 +47,15 @@ Thankfully I got help from very kind people and was able to complete this projec
 
 ## BOM 
 
-
+| Item | Qty | Supplier | Cost/item | Total Cost | link |
+|---|---:|---|---:|---:|---|
+| PCb | 1 | JLCPCB | $5.20 | $5.20 | [link](https://www.jlcpcb.com) |
+| 100 nF Capacitor | 1 | Aliexpress | $1.17 | $1.17 | [link](https://de.aliexpress.com/item/1005011747293156.html) |
+| 10 uF Capacitor | 1 | Aliexpress | $2.83 | $2.83 | [link](https://de.aliexpress.com/item/1005011747293156.html) |
+| Raspberry Pi Pico | 1 | Aliexpress | $3.43 | $3.43 | [link](https://de.aliexpress.com/item/1005006839247100.html) |
+| 5 pin socket | 1 | Aliexpress | $1.94 | $1.94 | [link](https://de.aliexpress.com/item/1005001418544370.html) |
+| SN74AHCT125N | 1 | Aliexpress | $1.93 | $1.93 | [link](https://de.aliexpress.com/item/1005007655828920.html) |
+| 5V, 2A USB power supply | 1 | Aliexpress | $2.40 | $2.40 | [link](https://de.aliexpress.com/item/1005013330943550.html) |
+| Estimated total shipping | 1 |  |  | $13.44 |  |
+### Total cost: $32.34
 
